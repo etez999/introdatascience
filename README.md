@@ -1,2 +1,2 @@
 # introdatascience
-# Name: EZRA TAN EN ZHONG
+# Name: Ezra Tan 
